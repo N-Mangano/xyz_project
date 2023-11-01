@@ -8,3 +8,4 @@
 - Viktoriia Shcherbyna
 - Gkalina Borisevits
 - Aleksandra Cheidze
+- Nadezda Mangano
